@@ -1,4 +1,4 @@
-function register()
+function Register()
 {
     return(
         <div>
@@ -6,4 +6,4 @@ function register()
         </div>
     )
 }
-export default register
+export default Register
